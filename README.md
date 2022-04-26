@@ -2,7 +2,7 @@
 
 ## Chatbot
 * **Description:** Chatbot that allows you to ask for different headlines of the new AI Blog Post
-* **Corpus:** Trained based on *AI.txt* corpus
+* **Corpus:** Trained based on **"AI.txt"** (corpus of generated AI blog posts summaries)
 * **Reference:** https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK
 
 
