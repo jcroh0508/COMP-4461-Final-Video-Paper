@@ -12,4 +12,4 @@ python chatbot.py
 ## AI Blog Summary 
 * Description: Code to generate summaries and keywords of AI blog posts
 * Package used: [newspaper3k](https://github.com/codelucas/newspaper)
-* Blog_Summary.ipynb file
+* Code: Blog_Summary.ipynb 
