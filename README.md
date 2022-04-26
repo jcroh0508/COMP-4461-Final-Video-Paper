@@ -12,6 +12,6 @@ python chatbot.py
 ```
 ## AI Blog Post Summary Generation
 * **Description:** Code to generate summaries and keywords of AI blog posts
-* **Blogs**: [Meta AI](https://ai.facebook.com/blog/?page=1), [Microsoft](https://blogs.microsoft.com/ai/), [NVIDIA] (https://blogs.nvidia.com/blog/category/deep-learning/), [OpenAI](https://openai.com/blog/), [Google DeepMind](https://www.deepmind.com/blog)
+* **Blogs**: [Meta AI](https://ai.facebook.com/blog/?page=1), [Microsoft](https://blogs.microsoft.com/ai/), [NVIDIA](https://blogs.nvidia.com/blog/category/deep-learning/), [OpenAI](https://openai.com/blog/), [Google DeepMind](https://www.deepmind.com/blog)
 * **Package used:** [newspaper3k](https://github.com/codelucas/newspaper)
 * **Code:** Blog_Summary.ipynb 
