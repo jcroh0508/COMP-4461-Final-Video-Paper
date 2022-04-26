@@ -10,7 +10,8 @@ Run
 ```
 python chatbot.py
 ```
-## AI Blog Summary 
+## AI Blog Post Summary Generation
 * **Description:** Code to generate summaries and keywords of AI blog posts
+* **Blogs**: Meta AI, Microsoft, NVIDIA, OpenAI, Google DeepMind
 * **Package used:** [newspaper3k](https://github.com/codelucas/newspaper)
 * **Code:** Blog_Summary.ipynb 
